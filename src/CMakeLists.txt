@@ -80,4 +80,4 @@ set_property(TARGET SimpleWallet PROPERTY PUT_NAME "simplewallet")
 set_property(TARGET PaymentGateService PROPERTY PUT_NAME "walletd")
 set_property(TARGET Miner PROPERTY PUT_NAME "miner")
 #TODO Specify the name of daemon for your currency
-set_property(TARGET Daemon PROPERTY OUTPUT_NAME "rcoin")
+set_property(TARGET Daemon PROPERTY OUTPUT_NAME "rcoind")
